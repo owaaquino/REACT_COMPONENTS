@@ -4,6 +4,8 @@ import "./App.css";
 import ToggleBtn_simple from "./components/ToggleBtn_simple";
 import ToggleBtn_colorChange from "./components/ToggleBtn_colorChange";
 import Counter from "./components/Counter";
+import ChangeClass from "./components/ChangeClass";
+
 class App extends Component {
   render() {
     return (
@@ -11,6 +13,7 @@ class App extends Component {
         <ToggleBtn_simple />
         <ToggleBtn_colorChange />
         <Counter />
+        <ChangeClass />
       </div>
     );
   }

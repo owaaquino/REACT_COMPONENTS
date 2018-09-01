@@ -26,3 +26,17 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.boxDiv {
+  background-color: tomato;
+  height: 50px;
+}
+
+.newBoxDiv {
+  background-color: #bada55;
+  height: 50px;
+}
+
+span.colorText {
+  color: #cccccc;
+}

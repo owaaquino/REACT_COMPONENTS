@@ -25,6 +25,7 @@ class Counter extends React.Component {
   render() {
     return (
       <div>
+        <h2>Add/Subract 1 on click</h2>
         <div>
           Click the button bellow to update our counter: {this.state.counter}
         </div>
