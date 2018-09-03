@@ -40,3 +40,15 @@
 span.colorText {
   color: #cccccc;
 }
+
+span.red {
+  color: red;
+}
+
+span.blue {
+  color: blue;
+}
+
+span.green {
+  color: green;
+}
